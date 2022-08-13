@@ -16,7 +16,6 @@ function createSignal(initialValue, { name }) {
   }
 
   function write(fnOrValue) {
-
     if (typeof fnOrValue === 'function') {
       state.value = fnOrValue(state.value)
     } else {
