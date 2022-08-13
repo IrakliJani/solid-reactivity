@@ -1,0 +1,9 @@
+{
+  "name": "solid-reactivity-exercise",
+  "version": "0.1.0",
+  "description": "Solid Reactivity Exercise",
+  "repository": "https://github.com/IrakliJani/solid-reactivity.git",
+  "author": "Irakli Janiashvili <hey@iraklijani.com> (https://iraklijani.com/)",
+  "license": "MIT",
+  "private": false
+}
